@@ -1,5 +1,5 @@
 # Django-User-Registration
-# user login and register system implementation in django 
+ User login and register system implementation in django 
 ![](https://img.shields.io/github/repo-size/Alleny244/Django-User-Registration.svg?label=Repo%20size&style=flat-square)&nbsp;![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)&nbsp;
 
 
